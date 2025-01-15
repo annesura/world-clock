@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #dbd8e3;
+    background-color:  #cedcc3;
 }
 
 .container {
@@ -30,7 +30,7 @@ select {
     font-size: 18px;
 }
 a {
-    color: #2a2438;
+    color:  #323232; 
 }
 footer {
     text-align: center;
